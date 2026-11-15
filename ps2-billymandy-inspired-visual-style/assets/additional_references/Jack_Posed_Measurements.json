@@ -1,0 +1,63 @@
+{
+  "frame": 47,
+  "dimensions_over_height": [
+    0.4562,
+    0.43,
+    1.0
+  ],
+  "bands": {
+    "boots": [
+      0.3107,
+      0.2197,
+      0.1182
+    ],
+    "torso": [
+      0.3632,
+      0.1829,
+      0.2194
+    ],
+    "head": [
+      0.3875,
+      0.3423,
+      0.1486
+    ],
+    "hat": [
+      0.4562,
+      0.406,
+      0.2087
+    ]
+  },
+  "view_transform": "Standard",
+  "axes": [
+    "width",
+    "depth",
+    "height"
+  ],
+  "scope": "Posed base Jack in frame 47. Band extents include any vertices in the band, including visible contours. Compare with matching pose and camera; these are not universal character proportions.",
+  "bands_normalized_height": {
+    "boots": [
+      0,
+      0.12
+    ],
+    "torso": [
+      0.39,
+      0.61
+    ],
+    "head": [
+      0.63,
+      0.78
+    ],
+    "hat": [
+      0.79,
+      1.01
+    ]
+  },
+  "camera": {
+    "projection": "Orthographic",
+    "ortho_scale_over_height": 1.15,
+    "exposure": 0,
+    "gamma": 1,
+    "view_transform": "Standard",
+    "look": "None"
+  }
+}

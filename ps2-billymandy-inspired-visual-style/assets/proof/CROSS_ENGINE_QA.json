@@ -1,0 +1,12 @@
+{
+  "blender": "5.1.2",
+  "unreal": "5.9.0",
+  "same_static_asset": true,
+  "mask_threshold_srgb8": 8,
+  "mask_threshold_reason": "separates black background from dark ink; diagnostic only",
+  "silhouette_iou": 0.9988533863323651,
+  "interior_rgb_mae_8bit": 2.739438652588571,
+  "interior_rgb_p95_8bit": 8.0,
+  "interior_pixels": 60046,
+  "conclusion": "Static unlit atlas + inverted hull path visually close. Edge filtering differs; no universal equivalence or skeletal/runtime claim."
+}

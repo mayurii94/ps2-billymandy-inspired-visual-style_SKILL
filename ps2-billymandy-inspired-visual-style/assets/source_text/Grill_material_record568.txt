@@ -1,0 +1,18 @@
+StagedShaderTexture[1]
+{
+	"GrillO"
+}
+Material[1]
+{
+	Material "GrillOM"
+	{
+		SingleSided
+		AmbientColor 255 255 255 255
+		DiffuseColor 255 255 255 255
+		SpecularColor 255 255 255 255
+		SimpleTextureShader 0
+		GouraudShade
+		ColorModulate
+		AlphaDecal
+	}
+}

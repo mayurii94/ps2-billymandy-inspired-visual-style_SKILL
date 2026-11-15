@@ -1,0 +1,166 @@
+[
+  {
+    "path": "assets/proof/BLENDER_UNREAL_COMPARISON.jpg",
+    "sha256": "2232d590f9953f137623efcc54419bca2352016c8dd971bc297516914d4100e5"
+  },
+  {
+    "path": "assets/proof/CROSS_ENGINE_QA.json",
+    "sha256": "4b204d91d90db512dca8a955def15a66f9fd7a85bd75e24f7b398c2418352baf"
+  },
+  {
+    "path": "assets/proof/DEVIATIONS.jpg",
+    "sha256": "1ff6914810e7c42fd59d5c3cc9ab64d6a8933a3b2ccaeb902cd84b956f097cd6"
+  },
+  {
+    "path": "assets/proof/STYLE_COMPARISON.jpg",
+    "sha256": "376c033933d6c54ca33fc8ebbe69943025e5f86335635c5043dd009d3d3c1f06"
+  },
+  {
+    "path": "assets/references/Fred_angle.png",
+    "sha256": "4be524271f4b69576877480e2a18d8d1502838806972605e96022e6561415ad8"
+  },
+  {
+    "path": "assets/references/Fred_black_removed.png",
+    "sha256": "d9ce9606b97ba75732f15af2533144cf1ff58af62a089bdc4350473e6688a0af"
+  },
+  {
+    "path": "assets/references/Fred_FrdM0.png",
+    "sha256": "61946015e0f245d395e43beac4beb0e1aacc87958303d1180f0f1724ea833a2f"
+  },
+  {
+    "path": "assets/references/Fred_FrdM1.001.png",
+    "sha256": "d6f57b6b16c9628b04941e6bb427225f866b2366ac3b4003c560a9091e78d69c"
+  },
+  {
+    "path": "assets/references/Fred_FrdM1.png",
+    "sha256": "d6f57b6b16c9628b04941e6bb427225f866b2366ac3b4003c560a9091e78d69c"
+  },
+  {
+    "path": "assets/references/Fred_front.png",
+    "sha256": "a6a6b5efb12283a2b0d9867554fe414e3f12bbf1d53da7d5352d4655bc1ba2ca"
+  },
+  {
+    "path": "assets/references/Fred_motion_001.png",
+    "sha256": "db1b933008b92a105b8d03bb76a53a65f70adf63d3fd227082753a196fedcddd"
+  },
+  {
+    "path": "assets/references/Fred_motion_009.png",
+    "sha256": "d082d2e65e243abb1d77b952b240347ac3bb78894fd4490107527092765c6036"
+  },
+  {
+    "path": "assets/references/Fred_motion_017.png",
+    "sha256": "730e5ecb1459ab544e934b33a9c893967e54041d227dd9e650721abc44a68d0d"
+  },
+  {
+    "path": "assets/references/Fred_side.png",
+    "sha256": "15e5c4d812a2b2d2b3ee438ce00ceab43c41cb34a011a5b260db73f216d8e28c"
+  },
+  {
+    "path": "assets/references/Grill_angle.png",
+    "sha256": "f2abe04b9910f4491b6bb6bb80b7ede5ae222267614ff3e518755a4784ba03d5"
+  },
+  {
+    "path": "assets/references/Grill_black_removed.png",
+    "sha256": "6e39eaba36dbf4d20f9137644e94bc42c9386e0ada7269a8c1aa8a5c7673afa9"
+  },
+  {
+    "path": "assets/references/Grill_front.png",
+    "sha256": "dd98ac13322349ae4ed54a5a3290a1ae791b35df1e2b973b71cbc1867c133b27"
+  },
+  {
+    "path": "assets/references/Grill_GrillO.png",
+    "sha256": "34c032b6dcc51f3550e448085e81affcbaa0a2ee78ffb615a1d58a4aaf70bd35"
+  },
+  {
+    "path": "assets/references/Grill_side.png",
+    "sha256": "e5ddcf10491ad564b1efeea8a3354d9f936e5ced5777039ad3ae5af61a7c67fd"
+  },
+  {
+    "path": "assets/references/Jack_angle.png",
+    "sha256": "b5e899af335cda81e66464208d0307de0a000ec071f8c1ff3e118e7e07138c0d"
+  },
+  {
+    "path": "assets/references/Jack_black_removed.png",
+    "sha256": "f7d1186c4f291e11b1c45f94057fb8f9b8a2842bb2a1ed47a4cffcf08aa91812"
+  },
+  {
+    "path": "assets/references/Jack_front.png",
+    "sha256": "2a44167770779540fcacb37b824fa34f18eea88e62f3d4701b31aeaf50b341de"
+  },
+  {
+    "path": "assets/references/Jack_Jack.png",
+    "sha256": "f1c126e7e1db4afdacf508ac5636f11d8a2e09db7f250112aeb4e9fb0a2219cc"
+  },
+  {
+    "path": "assets/references/Jack_Jack_face.png",
+    "sha256": "ce2fb3919cfaff1b7dae5e70a30796bf9e7faacf132ded2af9034896ccff178e"
+  },
+  {
+    "path": "assets/references/Jack_motion_001.png",
+    "sha256": "f449ee6bc07c3ecdb9a4a63a46c13ca90b0999113e58901f00d021904a45cbaa"
+  },
+  {
+    "path": "assets/references/Jack_motion_026.png",
+    "sha256": "f9d658508cbadcac15a51cabafd370e72d61529c86f684283016e8e5cca58c8c"
+  },
+  {
+    "path": "assets/references/Jack_motion_052.png",
+    "sha256": "1fdb7d91ae505809157f88671c1cbbb87d898faac8f69703e05b472b786e045c"
+  },
+  {
+    "path": "assets/references/Jack_side.png",
+    "sha256": "81fe467c9f302dcf6a877d1a553d147b99fa6f931ff48e29ffc1129715fcec55"
+  },
+  {
+    "path": "assets/references/measurements.json",
+    "sha256": "8e05e66a6344a37c0895c621089d67d8cc9d2d454f669ddd895628a16fa932b6"
+  },
+  {
+    "path": "assets/references/motion_board.jpg",
+    "sha256": "ec1b16dad0b287ddf3a40e6b18a512e8b8f8491d5db70ffc5d2fa2a6b3564930"
+  },
+  {
+    "path": "assets/references/Pumpkin_angle.png",
+    "sha256": "dde3722226fff6dac36b3f36e155f4fa77bcf6d275a2595d82e694939b782bdf"
+  },
+  {
+    "path": "assets/references/Pumpkin_black_removed.png",
+    "sha256": "7d039aac30f9744939f64f952f5cfbc11953bfb1dc738f1944290c6c053f52a3"
+  },
+  {
+    "path": "assets/references/Pumpkin_front.png",
+    "sha256": "c481f5b2aed6d0e2598600814e7d9b1c0d2e00e96100023ec806643f19f96b71"
+  },
+  {
+    "path": "assets/references/Pumpkin_PmpknLa.png",
+    "sha256": "95f51d2976b5fa6540a7e51f014667779ccfb8c56ba91752a9651e840e3cab73"
+  },
+  {
+    "path": "assets/references/Pumpkin_side.png",
+    "sha256": "1f02a9b51c329a598eb0f727da83330e0df020295f4a103c41404c644e469734"
+  },
+  {
+    "path": "assets/references/reference_board.jpg",
+    "sha256": "238f2286ee78608eb713fc8748f986bfd5f75a42aa0eb7ebe548155c7cb9a3a9"
+  },
+  {
+    "path": "assets/source_text/Grill_material_record568.txt",
+    "sha256": "af79a3b8718fed618a4ffb227987b9fdf2f6e230a3ab73ae908d22f5729a4a3f"
+  },
+  {
+    "path": "assets/source_text/Jack_material_record066.txt",
+    "sha256": "dbfbcd34900370449c82da01147be978b5c9a1d0f93bb08c8708524ceb935147"
+  },
+  {
+    "path": "assets/source_text/Jack_shader_record065.txt",
+    "sha256": "4544d36e328a68e8a7320496a9b80061e20081e8fbb4f435957b4e4c70d024e5"
+  },
+  {
+    "path": "assets/unreal_template/Config/DefaultEngine.ini",
+    "sha256": "24ab393bda395ad85e3b445d44834c9e50d851498058ea76fa66293a0e20225d"
+  },
+  {
+    "path": "assets/unreal_template/StyleProof.uproject",
+    "sha256": "f4c24d5fbbd19cf91c2c37276841285f1cf0914b6a90432ffe6fedc5d50ed948"
+  }
+]

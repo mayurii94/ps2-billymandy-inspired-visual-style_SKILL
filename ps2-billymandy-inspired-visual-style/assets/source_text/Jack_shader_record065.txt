@@ -1,0 +1,59 @@
+Shader[3]
+{
+	Shader "JackM0"
+	{
+		StagedShaderComponent[1]
+		{
+			StagedShaderComponent
+			{
+				TextureStage
+				{
+					Texture "JackC"
+					TxtCoordOffset 0
+					Bilinear
+					Wrap
+				}
+				ModulateOp ModulateTextureByDiffuseAndConstant
+				AlphaSource SelectTexture
+			}
+		}
+	}
+	Shader "JackM1"
+	{
+		StagedShaderComponent[1]
+		{
+			StagedShaderComponent
+			{
+				TextureStage
+				{
+					Texture "JackF"
+					TxtCoordOffset 0
+					Coord2DTransform 1
+					Bilinear
+					Wrap
+				}
+				ModulateOp ModulateTextureByDiffuseAndConstant
+				AlphaSource SelectTexture
+			}
+		}
+	}
+	Shader "JackM2"
+	{
+		StagedShaderComponent[1]
+		{
+			StagedShaderComponent
+			{
+				TextureStage
+				{
+					Texture "JackF"
+					TxtCoordOffset 0
+					Coord2DTransform 2
+					Bilinear
+					Wrap
+				}
+				ModulateOp ModulateTextureByDiffuseAndConstant
+				AlphaSource SelectTexture
+			}
+		}
+	}
+}

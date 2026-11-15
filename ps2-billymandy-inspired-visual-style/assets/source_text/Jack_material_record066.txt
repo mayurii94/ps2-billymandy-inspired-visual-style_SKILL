@@ -1,0 +1,49 @@
+StagedShaderTexture[3]
+{
+	Default
+	Default
+	Default
+}
+Material[3]
+{
+	Material "JackM0"
+	{
+		SingleSided
+		AmbientColor 114 114 114 255
+		DiffuseColor 255 255 255 255
+		SpecularColor 255 255 255 255
+		ConstantColor 255 255 255 
+		ConstantAlpha 255
+		Shader "JackM0" 0 0 0 1
+		GouraudShade
+		ColorModulate
+		AlphaDecal
+	}
+	Material "JackM1"
+	{
+		SingleSided
+		AmbientColor 63 63 63 255
+		DiffuseColor 255 255 255 255
+		SpecularColor 255 255 255 255
+		ConstantColor 255 255 255 
+		ConstantAlpha 255
+		Shader "JackM1" 0 0 1 1
+		GouraudShade
+		ColorModulate
+		AlphaDecal
+		AntiAliasedTransparency
+	}
+	Material "JackM2"
+	{
+		SingleSided
+		AmbientColor 63 63 63 255
+		DiffuseColor 255 255 255 255
+		SpecularColor 255 255 255 255
+		ConstantColor 255 255 255 
+		ConstantAlpha 255
+		Shader "JackM2" 0 0 2 1
+		GouraudShade
+		ColorModulate
+		AlphaDecal
+	}
+}

@@ -1,0 +1,1479 @@
+[
+  {
+    "asset": "Fred",
+    "source": "Fred_ReverseEngineering_Output/Fred_Fredburger_Animations_FIXED.blend",
+    "sha256": "bfee3eba05313cc71383e1b876a22ceda389cc80a085ad3f2fabc1151a581efd",
+    "version": "5.1.2",
+    "meshes": [
+      {
+        "name": "Fred_Part_00",
+        "vertices": 117,
+        "triangles": 164,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 492,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_01",
+        "vertices": 26,
+        "triangles": 36,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 108,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_02",
+        "vertices": 217,
+        "triangles": 304,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 912,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_03",
+        "vertices": 130,
+        "triangles": 128,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 384,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_04",
+        "vertices": 123,
+        "triangles": 128,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 384,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_05",
+        "vertices": 77,
+        "triangles": 132,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 396,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_06",
+        "vertices": 57,
+        "triangles": 64,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 192,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_07",
+        "vertices": 64,
+        "triangles": 72,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 216,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_08",
+        "vertices": 16,
+        "triangles": 16,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 48,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_09",
+        "vertices": 78,
+        "triangles": 108,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 324,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_10",
+        "vertices": 18,
+        "triangles": 24,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 72,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_11",
+        "vertices": 77,
+        "triangles": 132,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 396,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_12",
+        "vertices": 57,
+        "triangles": 64,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 192,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_13",
+        "vertices": 64,
+        "triangles": 72,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 216,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_14",
+        "vertices": 16,
+        "triangles": 16,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 48,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_15",
+        "vertices": 78,
+        "triangles": 108,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 324,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_16",
+        "vertices": 18,
+        "triangles": 24,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 72,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_17",
+        "vertices": 55,
+        "triangles": 88,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 264,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_18",
+        "vertices": 370,
+        "triangles": 452,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 1356,
+            "near_black_count": 1266,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_19",
+        "vertices": 51,
+        "triangles": 56,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 168,
+            "near_black_count": 168,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_20",
+        "vertices": 80,
+        "triangles": 110,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 330,
+            "near_black_count": 330,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_21",
+        "vertices": 33,
+        "triangles": 48,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 144,
+            "near_black_count": 144,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_22",
+        "vertices": 313,
+        "triangles": 393,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 1179,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_23",
+        "vertices": 51,
+        "triangles": 56,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 168,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_24",
+        "vertices": 80,
+        "triangles": 110,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 330,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Fred_Part_25",
+        "vertices": 33,
+        "triangles": 48,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 144,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "bounds": [
+      2.2543108463287354,
+      2.100464105606079,
+      2.5818042755126953
+    ],
+    "materials": [
+      {
+        "name": "FredM0",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial"
+        ],
+        "textures": [
+          {
+            "name": "FrdM0.png",
+            "size": [
+              128,
+              128
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      },
+      {
+        "name": "FredM1",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeTexCoord",
+          "ShaderNodeVectorMath"
+        ],
+        "textures": [
+          {
+            "name": "FrdM1.png",
+            "size": [
+              256,
+              256
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      },
+      {
+        "name": "FredM2",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeTexCoord",
+          "ShaderNodeVectorMath"
+        ],
+        "textures": [
+          {
+            "name": "FrdM1.png.001",
+            "size": [
+              256,
+              256
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      }
+    ],
+    "actions": 106,
+    "render_source": {
+      "engine": "BLENDER_EEVEE",
+      "view_transform": "Standard"
+    },
+    "camera_directions": {
+      "front": [
+        1,
+        0,
+        0
+      ],
+      "side": [
+        0,
+        -1,
+        0
+      ],
+      "angle": [
+        6,
+        -4,
+        3
+      ]
+    },
+    "motion_samples": {
+      "action": "PS2_mvNorm",
+      "frames": [
+        1,
+        9,
+        17
+      ]
+    }
+  },
+  {
+    "asset": "Jack",
+    "source": "Jack_ReverseEngineering_Output/Jack_PS2.blend",
+    "sha256": "495d3dd7195163933f181d52916e3346e2907e8fbb2be55fa77e7adcb79e7ba5",
+    "version": "5.1.2",
+    "meshes": [
+      {
+        "name": "Jack_Part_00",
+        "vertices": 221,
+        "triangles": 246,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 738,
+            "near_black_count": 387,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_01",
+        "vertices": 303,
+        "triangles": 220,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 660,
+            "near_black_count": 294,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_02",
+        "vertices": 103,
+        "triangles": 122,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 366,
+            "near_black_count": 201,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_03",
+        "vertices": 132,
+        "triangles": 150,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 450,
+            "near_black_count": 225,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_04",
+        "vertices": 65,
+        "triangles": 84,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 252,
+            "near_black_count": 126,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_05",
+        "vertices": 59,
+        "triangles": 90,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 270,
+            "near_black_count": 135,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_06",
+        "vertices": 84,
+        "triangles": 59,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 177,
+            "near_black_count": 84,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_07",
+        "vertices": 83,
+        "triangles": 56,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 168,
+            "near_black_count": 69,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_08",
+        "vertices": 348,
+        "triangles": 354,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 1062,
+            "near_black_count": 240,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_09",
+        "vertices": 113,
+        "triangles": 107,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 321,
+            "near_black_count": 153,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_10",
+        "vertices": 105,
+        "triangles": 99,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 297,
+            "near_black_count": 150,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_11",
+        "vertices": 86,
+        "triangles": 68,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 204,
+            "near_black_count": 102,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_12",
+        "vertices": 18,
+        "triangles": 9,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 27,
+            "near_black_count": 15,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_13",
+        "vertices": 36,
+        "triangles": 31,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 93,
+            "near_black_count": 51,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_14",
+        "vertices": 113,
+        "triangles": 132,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 396,
+            "near_black_count": 198,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_15",
+        "vertices": 16,
+        "triangles": 9,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 27,
+            "near_black_count": 6,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_16",
+        "vertices": 114,
+        "triangles": 108,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 324,
+            "near_black_count": 162,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_17",
+        "vertices": 128,
+        "triangles": 121,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 363,
+            "near_black_count": 201,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_18",
+        "vertices": 12,
+        "triangles": 5,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 15,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_19",
+        "vertices": 33,
+        "triangles": 35,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 105,
+            "near_black_count": 54,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_20",
+        "vertices": 69,
+        "triangles": 53,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 159,
+            "near_black_count": 69,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_21",
+        "vertices": 4,
+        "triangles": 2,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 6,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_22",
+        "vertices": 113,
+        "triangles": 132,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 396,
+            "near_black_count": 198,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_23",
+        "vertices": 139,
+        "triangles": 156,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 468,
+            "near_black_count": 234,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_24",
+        "vertices": 60,
+        "triangles": 78,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 234,
+            "near_black_count": 117,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_25",
+        "vertices": 59,
+        "triangles": 90,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 270,
+            "near_black_count": 135,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_26",
+        "vertices": 629,
+        "triangles": 584,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 1752,
+            "near_black_count": 1281,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Jack_Part_27",
+        "vertices": 21,
+        "triangles": 22,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 66,
+            "near_black_count": 0,
+            "unique_rgb_rounded": 1
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "bounds": [
+      1.6805239915847778,
+      1.7760605812072754,
+      3.8802075386047363
+    ],
+    "materials": [
+      {
+        "name": "Jack",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeNewGeometry",
+          "ShaderNodeBsdfTransparent",
+          "ShaderNodeMixShader"
+        ],
+        "textures": [
+          {
+            "name": "Jack.png",
+            "size": [
+              128,
+              128
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      },
+      {
+        "name": "Jack_face",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeNewGeometry",
+          "ShaderNodeBsdfTransparent",
+          "ShaderNodeMixShader",
+          "ShaderNodeTexCoord",
+          "ShaderNodeVectorMath"
+        ],
+        "textures": [
+          {
+            "name": "Jack_face.png",
+            "size": [
+              256,
+              256
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      },
+      {
+        "name": "Jack_eyes",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeNewGeometry",
+          "ShaderNodeBsdfTransparent",
+          "ShaderNodeMixShader",
+          "ShaderNodeTexCoord",
+          "ShaderNodeVectorMath"
+        ],
+        "textures": [
+          {
+            "name": "Jack_face.png",
+            "size": [
+              256,
+              256
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      }
+    ],
+    "actions": 309,
+    "render_source": {
+      "engine": "BLENDER_EEVEE",
+      "view_transform": "Standard"
+    },
+    "camera_directions": {
+      "front": [
+        1,
+        0,
+        0
+      ],
+      "side": [
+        0,
+        -1,
+        0
+      ],
+      "angle": [
+        6,
+        -4,
+        3
+      ]
+    },
+    "motion_samples": {
+      "action": "Jack_mvNorm",
+      "frames": [
+        1,
+        26,
+        52
+      ]
+    }
+  },
+  {
+    "asset": "Pumpkin",
+    "source": "PumpkinP_ReverseEngineering_Output/PumpkinP_PS2.blend",
+    "sha256": "4daf0bf239e8a0badda5d3d059fb0fd2355cfbb7129005f0e72023909ffa957a",
+    "version": "5.1.2",
+    "meshes": [
+      {
+        "name": "PmpknLa_Part_00",
+        "vertices": 219,
+        "triangles": 149,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 447,
+            "near_black_count": 168,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_01",
+        "vertices": 468,
+        "triangles": 327,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 981,
+            "near_black_count": 336,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_02",
+        "vertices": 110,
+        "triangles": 62,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 186,
+            "near_black_count": 93,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_03",
+        "vertices": 110,
+        "triangles": 62,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 186,
+            "near_black_count": 93,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_04",
+        "vertices": 110,
+        "triangles": 62,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 186,
+            "near_black_count": 93,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_05",
+        "vertices": 96,
+        "triangles": 85,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 255,
+            "near_black_count": 171,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "PmpknLa_Part_06",
+        "vertices": 264,
+        "triangles": 219,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 657,
+            "near_black_count": 477,
+            "unique_rgb_rounded": 2
+          }
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "bounds": [
+      2.387667179107666,
+      3.013580083847046,
+      2.2349517345428467
+    ],
+    "materials": [
+      {
+        "name": "PmpknLa",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeOutputMaterial",
+          "ShaderNodeNewGeometry",
+          "ShaderNodeBsdfTransparent",
+          "ShaderNodeMixShader"
+        ],
+        "textures": [
+          {
+            "name": "PmpknLa.png",
+            "size": [
+              64,
+              64
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      }
+    ],
+    "actions": 14,
+    "render_source": {
+      "engine": "BLENDER_EEVEE",
+      "view_transform": "Standard"
+    },
+    "camera_directions": {
+      "front": [
+        1,
+        0,
+        0
+      ],
+      "side": [
+        0,
+        -1,
+        0
+      ],
+      "angle": [
+        6,
+        -4,
+        3
+      ]
+    }
+  },
+  {
+    "asset": "Grill",
+    "source": "Environment_ReverseEngineering_Output/GrillO_PS2.blend",
+    "sha256": "d5fc81b75c3a001519de5004fbd87a2a2f5fb56d9032fba70429b35835e817fe",
+    "version": "5.1.2",
+    "meshes": [
+      {
+        "name": "GrillO",
+        "vertices": 224,
+        "triangles": 204,
+        "uv_layers": 1,
+        "color_attributes": [
+          {
+            "name": "PS2Color",
+            "domain": "CORNER",
+            "count": 612,
+            "near_black_count": 315,
+            "unique_rgb_rounded": 12
+          }
+        ],
+        "modifiers": []
+      }
+    ],
+    "bounds": [
+      1.5660969018936157,
+      1.5951095819473267,
+      1.9599968194961548
+    ],
+    "materials": [
+      {
+        "name": "GrillOM",
+        "backface_culling": true,
+        "nodes": [
+          "ShaderNodeTexImage",
+          "ShaderNodeAttribute",
+          "ShaderNodeMixRGB",
+          "ShaderNodeEmission",
+          "ShaderNodeNewGeometry",
+          "ShaderNodeBsdfTransparent",
+          "ShaderNodeMixShader",
+          "ShaderNodeOutputMaterial"
+        ],
+        "textures": [
+          {
+            "name": "GrillO.png",
+            "size": [
+              64,
+              64
+            ],
+            "interpolation": "Linear",
+            "packed": true
+          }
+        ]
+      }
+    ],
+    "actions": 2,
+    "render_source": {
+      "engine": "BLENDER_EEVEE",
+      "view_transform": "Standard"
+    },
+    "camera_directions": {
+      "front": [
+        0,
+        -1,
+        0
+      ],
+      "side": [
+        1,
+        0,
+        0
+      ],
+      "angle": [
+        4,
+        -6,
+        3
+      ]
+    }
+  }
+]
